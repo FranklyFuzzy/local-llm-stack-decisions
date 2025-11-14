@@ -1,8 +1,8 @@
-# Use AI to Evaluate AI
+# Using AI to Evaluate AI
 
-I wanted clear and concise guidance on implementing local LLMs for various use cases. I decided to ask a handleful of models how to do that (see the prompt files for exact request). I collected those reponses and had Claude Sonnet 4.5 evaluate all 14 responses and the prompts used and tell me which response is the best.
+The goal of this project was to provide clear and concise guidance on implementing local Language Models (LLMs) for specific use cases, such as writing assistance, file management, coding, scripting, and creative writing. To achieve this, a group of models were consulted and their responses evaluated by Claude Sonnet 4.5, and a best response was chosen.
 
-Below is Claude's response:
+Below is Claude's evaluation:
 
 ---
 
